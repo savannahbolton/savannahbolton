@@ -4,6 +4,6 @@ I am a student at Williams College, studying computer science with an interest i
 `Notable Computer Science Coursework`
 - Introduction to Computer Science (taught in Python)
 - Data Structures and Advanced Programming (taught in Java)
-    - [Final Project Code](https://github.com/savannahbolton/CS136-Final-Project)
+    - [Final Project Repository](https://github.com/savannahbolton/CS136-Final-Project)
 - Discrete Math
 - Linear Algebra 
